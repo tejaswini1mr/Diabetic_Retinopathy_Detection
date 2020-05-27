@@ -33,7 +33,7 @@ Input data (raw) is like this -
 # Getting started :       
 [Click Here](https://github.com/suraj038/Diabetic_Retinopathy_Detection/blob/master/GettingStarted.md) to get started locally on your system.
 
-## Some snaps :     
+## Some snaps ::   
 ![images/gui1.png](images/gui1.png)
 ![images/gui2.png](images/gui2.png)
 ![images/gui3.png](images/gui3.png)
